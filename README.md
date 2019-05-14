@@ -10,11 +10,9 @@ API de integração do App e Website.
 
 ### Como rodar a API? ###
 
-* Xingar o Daniel em alguma rede social
 * Rodar o arquivo script-base.sql para criar a base no Mysql
 * A partir da raíz do projeto, executar o comando mvn clean install para baixar as dependências do projeto
 * Executar o comando mvn spring-boot:run para subir a aplicação
-* Xingar o Daniel pessoalmente
 * Acessar o projeto na porta 8080
 
 ### Endpoints ###
